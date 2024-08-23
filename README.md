@@ -1,2 +1,2 @@
 # CPlusPlus-Notes
-C语言和C++的笔记
+在B站讲C/C++课程的讲义
